@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba del GifGriditem.test.js DEBE DE MOSTRAR EL COMPONENTE CORRECTAMENTE 1`] = `
+<div
+  className="card animate__animated animate__bounce animate__delay-2s"
+>
+  <img
+    alt="(Sin Titulo)"
+  />
+  <p>
+    (Sin Titulo)
+  </p>
+</div>
+`;
